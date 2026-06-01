@@ -40,8 +40,8 @@ To create and design an Android application that accepts two numbers from the us
 /*
 Program to create and design an Android application for adding two numbers using Android Studio.
 
-Developed by: Ashwin Akash M
-Register Number: 212223230024
+Developed by: Lokhnath J
+Register Number: 212223240079
 */
 ```
 
